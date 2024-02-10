@@ -54,8 +54,8 @@ class Builder:
         self.img = Image.open(Builder.base_image)
         self.draw = ImageDraw.Draw(self.img)
 
-        self.team_red_name = "Team1" #defenders
-        self.team_blue_name = "Team2" #attackers
+        self.team_red_name = "BS" #defenders
+        self.team_blue_name = "Strm1" #attackers
 
         self.image_ref_points = {
             "header_footer": {
