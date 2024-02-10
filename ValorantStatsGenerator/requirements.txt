@@ -1,3 +1,0 @@
-valclient
-requests
-Pillow
