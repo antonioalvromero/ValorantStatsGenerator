@@ -26,6 +26,7 @@ class Loader:
                 "custom": "Custom",
                 "snowball": "Snowball Fight",
                 "": "Custom",
+		"premier":"Unrated"
             },
             "team_aliases": {
                 "TeamOne": "Defender",
